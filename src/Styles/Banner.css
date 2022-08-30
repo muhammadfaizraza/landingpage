@@ -1,0 +1,136 @@
+.banner{
+background-image: url("https://themebeyond.com/html/movflx/img/banner/banner_bg01.jpg");
+max-width:100vw;
+height :100vh;
+position: relative;
+
+
+}
+.bannerdata{
+
+color: white;
+position: absolute;
+
+
+}
+
+.bannerdata h3 {
+    font-size: 2.75rem;
+  color: yellow;
+  font-weight: 700;
+  margin-top: 16rem;
+  text-align: left;
+  margin-left: 7rem;
+
+}
+.movie{
+
+color: yellow;
+
+}
+.bannerh {
+
+      font-weight: 700;
+        font-size: 4rem;
+        font-size: 4rem;
+margin-left: 7rem;
+      
+}
+.bannerhead{
+
+text-align: left;
+font-weight: 700;
+font-size: 4rem;
+margin-left: 7rem;
+}
+.bannerflex{
+
+display: flex;
+
+
+}
+.bannerflex{
+
+margin-left: 7rem;
+margin-top :2rem;
+position: absolute;
+
+}
+    
+
+.bannflex{
+  margin-left: 7rem;
+display: flex;
+margin-top :2rem;
+word-spacing: 2px;
+}
+.pgbtn{
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #21232b;
+  background: #fff;
+  font-weight: 700;
+  padding: 7px 11px;
+  line-height: 1;
+}
+.bannflex > h6:hover{
+color: yellow;
+cursor: pointer;
+}
+
+
+.HdBTN{
+
+  background: transparent;
+  color: #fff;
+  margin-left: 9px;
+  border: 2px solid #fff;
+  padding: 5px 10px;
+}
+.bannflex >h6 {  font-size: 14px;
+font-weight: 500;
+color: #e3dfdf;
+margin-left: 10px;
+margin-top: 10px;
+font-weight: 700;
+}
+
+
+.btn{
+user-select: none;
+-moz-user-select: none;
+background: #12151e none repeat scroll 0 0;
+border: 2px solid #e4d804 !important;
+border-radius: 50px;
+cursor: pointer;
+display: inline-block;
+font-size: 12px;
+font-weight: 700;
+letter-spacing: 1px;
+line-height: 1.5;
+margin-bottom: 0;
+border: 2px solid yellow;
+padding: 16px 40px;
+text-align: center;
+text-transform: uppercase;
+touch-action: manipulation;
+transition: all 0.3s ease 0s;
+vertical-align: middle;
+white-space: nowrap;
+max-width: 300px;
+color : white;
+
+}
+.btn:hover{
+
+  color: black;
+  background-color: yellow;
+  cursor: pointer;
+  
+  }
+  .playnow{
+
+
+    margin-left: -23rem;
+    margin-top: 3rem;
+  }

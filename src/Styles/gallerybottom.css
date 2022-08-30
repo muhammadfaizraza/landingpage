@@ -1,0 +1,23 @@
+.gallerybottom{
+
+background-image : url('https://themebeyond.com/html/movflx/img/bg/tr_movies_bg.jpg');
+
+width: 100%;
+height: auto    ;
+background-position: center;
+background-size: cover;
+}
+.gallerybottom h6{
+margin-top: 6rem;
+
+color :yellow;
+
+
+}
+.gallerybottom h2{
+   
+    margin-bottom :2rem ;
+    color :white;
+    font-weight: 700;
+    
+    }
